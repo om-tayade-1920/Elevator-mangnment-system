@@ -8,7 +8,8 @@ This project simulates a multi-floor **Elevator (Lift) Control System** using th
 [Watch on YouTube](https://youtu.be/dvghVo5i9CA)
 
 ---
-
+![Elevator Simulation](simulation.png)
+---
 ## 📦 Key Components
 
 - **AT89C51 Microcontroller**
